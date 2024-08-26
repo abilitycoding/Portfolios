@@ -1,6 +1,6 @@
-# Developer Portfolios
+# Portfolios
 
-A list of developer portfolios for your inspiration
+A list of portfolios for your inspiration
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ---
